@@ -1,0 +1,30 @@
+#navbar {
+    
+}
+#test{
+    background-color: blue;
+}
+ul {
+    color: red;
+    font-family: sans-serif; 
+}
+
+.center {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
+
+#counter-banner {
+    background-color: #728FCE;
+    margin: 10px;
+    padding: 20px;
+}
+
+.main-flexbox {
+    display: flex;
+   /* flex-direction: column;*/
+    align-items: center;
+    border: solid;
+    justify-content: space-evenly;
+}
